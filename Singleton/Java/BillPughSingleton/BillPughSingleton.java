@@ -14,3 +14,4 @@ public class BillPughSingleton
     	return HelperSingletonClass.instance;
     }
 }
+
