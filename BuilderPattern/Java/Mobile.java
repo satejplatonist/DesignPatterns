@@ -38,7 +38,7 @@ public class Mobile
 		this.highQualityCamera = highQualityCamera;
    }
    
-   public Mobile(BuilderClass build) 
+   private Mobile(BuilderClass build) 
    {
 		this.memory = build.memory;
 		this.ram = build.ram;
